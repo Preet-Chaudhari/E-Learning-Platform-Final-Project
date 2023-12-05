@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "username": "pchaudh3",
+      "BU_ID": "B0098823",
+      "email": "",
+      "courses_taught": [
+        null
+      ],
+      "achievement_badges": null,
+      "quiz_attempts": [],
+      "badges": [],
+      "progress": null
+    },
+    {
+      "username": "ngadade1",
+      "BU_ID": "B000988",
+      "email": "",
+      "courses_taught": [],
+      "achievement_badges": null,
+      "quiz_attempts": [
+        null
+      ],
+      "badges": [
+        "Course Completion"
+      ],
+      "progress": null
+    }
+  ],
+  "courses": [
+    {
+      "title": "Python Basics",
+      "description": "Intro to Python",
+      "author": null,
+      "_observers": null,
+      "modules": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "video_lessons": [
+        null,
+        null,
+        null
+      ],
+      "quizzes": [
+        null
+      ],
+      "students": [
+        null
+      ]
+    }
+  ],
+  "interactions": [],
+  "notifications": [],
+  "quiz_attempts": [
+    {
+      "user": null,
+      "quiz": null,
+      "responses": {
+        "What is the correct way to declare a variable named my_var in Python?": 1,
+        "Which of these Python data types holds an ordered collection of objects?": 3,
+        "What does the len() function return in Python?": 2,
+        "What is the syntax in Python for importing the math module?": 1,
+        "Which operator is used to test if two values are NOT equal?": 4
+      },
+      "grade": 100.0
+    }
+  ]
+}
